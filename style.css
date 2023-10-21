@@ -1,1 +1,11 @@
+@charset "UFT-8";
+#wrapper {
+  height: 800px;
+  width: 1000px;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: light blue;
+}
 
+  
